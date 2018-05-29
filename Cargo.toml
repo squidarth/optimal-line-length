@@ -1,0 +1,6 @@
+[package]
+name = "line_breaks"
+version = "0.1.0"
+authors = ["Sidharth Shanker <sshanker220@gmail.com>"]
+
+[dependencies]
